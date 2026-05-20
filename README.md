@@ -11,10 +11,16 @@
 **Java ve Spring Boot** ekosisteminde yüksek performanslı ve **ölçeklenebilir** backend mimarileri geliştiriyorum. Kendimi sürekli geliştirerek daha verimli ve **değer üreten** çözümler sunmayı hedefliyorum.
 
 ---
-### 🛠 Teknolojiler ve Araçlar
+### 🛠️ Teknolojiler ve Araçlar
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Cloud / Config Server / Eureka / Feign Client / API Gateway" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" alt="Apache Kafka / Saga Pattern" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis / Cache / Rate Limiting" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Elasticsearch / Logstash / Kibana (ELK Stack)" />
+  <img src="https://raw.githubusercontent.com/openzipkin/openzipkin.github.io/master/public/images/b3-multi.svg" width="40" height="40" alt="Zipkin / Distributed Tracing" />
+  <img src="https://www.vectorlogo.zone/logos/netflix/netflix-icon.svg" width="40" height="40" alt="Resilience4j / Circuit Breaker / Retry" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
@@ -27,7 +33,7 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" />
-</p>                   
+</p>
 ---
 
 ### 📊 İstatistikler
